@@ -36,3 +36,4 @@
 #
 *.dSYM
 *.zip
+.DS_Store
